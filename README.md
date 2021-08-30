@@ -12,7 +12,6 @@ First of all we clean our earthquake dataset and we call to google api to get th
 
 We have our first Map using the coordinates of the earthquakes and this is what we see 
 
-The volcano dataset is divided in 2 csv (there are 5 but we only we will use 2), the volcanoes one and the eruptions. We need to merge both of them to be able to use it correctly.
 
 ![image](https://user-images.githubusercontent.com/82879300/131388013-79aaf731-5ccc-4d8a-bd93-478f4ceedd0d.png)
 
@@ -21,6 +20,8 @@ Something that looks like pretty similar to :
 ![image](https://user-images.githubusercontent.com/82879300/131388210-b82866a2-da5a-4cc8-9862-c6d433f4badb.png)
 
 ## Volcanoes
+
+The volcano dataset is divided in 2 csv (there are 5 but we only we will use 2), the volcanoes one and the eruptions. We need to merge both of them to be able to use it correctly.
 
 We need to clean both datasets (Volcanoes, eruptions), then mergin and then show some charts about them:
  * Number of volcanoes and eruptions per country
